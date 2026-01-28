@@ -45,6 +45,8 @@ The dashboard is designed to support healthcare administrators and decision-make
 
 - Power Query (Data Cleaning & Transformation)
 
+- DAX (Measures & Calculations)
+
 ### 📈 Dashboard Features & Analysis
 
 <img width="1194" height="662" alt="Health" src="https://github.com/user-attachments/assets/ba1f9a5f-fdbe-419b-9ec2-494cddd2c363" />
