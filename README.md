@@ -1,5 +1,8 @@
 # Health Patients Visit Analysis
 
+![Hospital-de-Bellvitge](https://github.com/user-attachments/assets/84c26a9e-51dd-4082-9e19-cc37115f6bc8)
+
+
 ### 📌 Project Overview
 
 The Health Patients Visit Dashboard is a data analytics project built using Power BI to analyze patient visitation patterns, treatment costs, length of hospital stay, and diagnosis trends across departments, demographics, time periods, and locations.
@@ -43,6 +46,9 @@ The dashboard is designed to support healthcare administrators and decision-make
 - Power Query (Data Cleaning & Transformation)
 
 ### 📈 Dashboard Features & Analysis
+
+<img width="1194" height="662" alt="Health" src="https://github.com/user-attachments/assets/ba1f9a5f-fdbe-419b-9ec2-494cddd2c363" />
+
 
 1️⃣ Diagnosis Trend Analysis
 
