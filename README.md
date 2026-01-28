@@ -1,4 +1,4 @@
-# Health Patients Visit Analysis
+# Hospital Visit Analysis
 
 ![Hospital-de-Bellvitge](https://github.com/user-attachments/assets/84c26a9e-51dd-4082-9e19-cc37115f6bc8)
 
